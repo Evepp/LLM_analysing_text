@@ -1,10 +1,19 @@
 # LLM_analysing_text
 
-The following is a repository for a project with the intention to collect journal entries as well as predict an develop LLM tools to recognize patters to meassure certain childhood disorders. Combating biases in in person therapy, self-deception, minimal self-disclosesure. 
-First scope is to identify personality traits such as extroversion, openesss and so on. Also popular ones, Myers-Briggs Type Indicator,and Ennergram.
-Next to correlate with other more specialized psychological test for personality traits. 
-- This also with the intention to popularize to gather more collection of data. For that, a web app is in development https://shiny.posit.co/  collecting data, the idea is offer an assetment of personality traits based on journal entries answering honestly to shadow work questions [chat bot] (those questions are popularized by internet trends, but based on https://www.psychologytoday.com/us/blog/click-here-for-happiness/202308/how-to-do-shadow-work)
-  
+This repository is for a project aimed at collecting journal entries and developing tools using large language models (LLMs) to recognize patterns that can help measure certain mental health disorders. The goal is to reduce biases in traditional in-person therapy, address self-deception, and overcome minimal self-disclosure.
 
-Second scope comes with analyzing childhood disorders in analyzing entries, deployment of a pre trained LLM model at the beginning Claude 3 and testing giving its neutrality. Ideally will be to compare it with real results of chilhood disorders of past patients, but still to see. 
-Third scope will be to develop fully the LLM model based on the journal entries, optimizing, instead of a pre-trained model. 
+The purpose of the journal entries is to encourage self-integration by prompting reflection on repressed emotions. While building this data collection, the approach will be grounded in the principles of depth psychology. One branch of the project will focus on gathering these entries, while another will apply depth psychology techniques to analyze existing data sources.
+
+
+First branch: 
+The first objective is to identify personality traits, such as extroversion, openness, and others, through prompt-based questions while also collecting relevant data. The goal is to make these metrics more accessible by relating them to widely recognized systems like the Myers-Briggs Type Indicator (MBTI) and the Enneagram, which are familiar to the general public.
+
+The second objective focuses on analyzing mental health disorders by examining journal entries, using guidelines from the DSM (Diagnostic and Statistical Manual of Mental Disorders) or similar mental health handbooks to inform the analysis.
+
+
+
+Second branch: 
+
+Given the focus on applying depth psychology concepts to analyze repressed feelings and their connection to mental health disorders, one approach involves dream analysis. Databases:  [https://sleepanddreamdatabase.org/] [https://dreambank.net/].
+Given the datasets listed, currently only working in the analysis of dreams based on exploring the symbolic meaning of certain elements in greater depth, linking them to myths, fairy tales, and religious symbols following a Jungian approach.
+ 
