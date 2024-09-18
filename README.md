@@ -16,6 +16,6 @@ The first objective is to identify personality traits, such as extroversion, ope
 
 Second branch: 
 
-Given the focus on applying depth psychology concepts to analyze repressed feelings and their connection to mental health disorders, one approach involves dream analysis. Databases:  [https://sleepanddreamdatabase.org/] [https://dreambank.net/].
-Given the datasets listed, currently only working in the analysis of dreams based on exploring the symbolic meaning of certain elements in greater depth, linking them to myths, fairy tales, and religious symbols following a Jungian approach.
+Given the focus on applying depth psychology concepts to analyze repressed feelings and their connection to personality traits, one approach involves dream analysis. Databases:  [https://sleepanddreamdatabase.org/] [https://dreambank.net/].
+With those datasets listed, currently only working in the analysis of dreams based on clustering and sentiment analysis. 
  
