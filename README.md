@@ -3,7 +3,8 @@
 The following is a metric of risk about the project
 ID | Impact  | Data Risk | Experimental Risk | Personal Risk | Financial Risk | Ethical Risk | Total 
 ---| ------ | --- | ------------ |----|----|-------| ---|
-02132| 4 | -1 | 0 | 0 | -1 | -1| 1
+02132| 4 | -1 | 0 | 0 | -1 | -1| 1|
+
 [link for understand the metric for risk](https://docs.google.com/spreadsheets/d/14kHAXZJNWorzid48NFDr6Ulr2KEXzGkcNBpyflRLklA/edit?usp=sharing)
 
 
