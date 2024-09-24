@@ -1,9 +1,9 @@
 # LLM_analysing_text
 
 
-ID | Impact  | Data Risk | Experimental Risk | Personal Risk | Financial Risk | Ethical Risk |
----| ------ | --- | ------------ |----|----|-------|
-02132| 4 | -1 | 0 | 0 | -1 | -1
+ID | Impact  | Data Risk | Experimental Risk | Personal Risk | Financial Risk | Ethical Risk | Total 
+---| ------ | --- | ------------ |----|----|-------| ---|
+02132| 4 | -1 | 0 | 0 | -1 | -1| 1
 
 
 
