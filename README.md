@@ -1,10 +1,10 @@
 # LLM_analysing_text
 
-
+The following is a metric of risk about the project
 ID | Impact  | Data Risk | Experimental Risk | Personal Risk | Financial Risk | Ethical Risk | Total 
 ---| ------ | --- | ------------ |----|----|-------| ---|
 02132| 4 | -1 | 0 | 0 | -1 | -1| 1
-
+[link for understand the metric for risk](https://docs.google.com/spreadsheets/d/14kHAXZJNWorzid48NFDr6Ulr2KEXzGkcNBpyflRLklA/edit?usp=sharing)
 
 
 This repository is for a project aimed at collecting journal entries and developing tools using large language models (LLMs) to recognize patterns that can help measure certain personality differences and ways of thinking. The goal is to reduce biases in traditional in-person assestments, address self-deception, and overcome minimal self-disclosure.
