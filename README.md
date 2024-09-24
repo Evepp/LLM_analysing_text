@@ -1,5 +1,13 @@
 # LLM_analysing_text
 
+
+| Impact  | Data Risk | Experimental Risk |
+| ------ | --- | ------------ |
+| Alice  | 30  | Engineer     |
+| Bob    | 24  | Data Analyst |
+| Charlie| 29  | Teacher      |
+
+
 This repository is for a project aimed at collecting journal entries and developing tools using large language models (LLMs) to recognize patterns that can help measure certain personality differences and ways of thinking. The goal is to reduce biases in traditional in-person assestments, address self-deception, and overcome minimal self-disclosure.
 
 The purpose of the journal entries is to encourage self-integration by prompting reflection on repressed emotions. While building this data collection, the approach will be grounded in the principles of depth psychology. One branch of the project will focus on gathering these entries, while another will apply depth psychology techniques to analyze existing data sources. 
