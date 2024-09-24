@@ -1,7 +1,7 @@
 # LLM_analysing_text
 
 The following is a metric of risk about the project
-ID | Impact  | Data Risk | Experimental Risk | Personal Risk | Financial Risk | Ethical Risk | Total 
+ID | Impact  | Data Risk | Experimental Risk | Personal Risk | Financial Risk | Ethical Risk | Score 
 ---| ------ | --- | ------------ |----|----|-------| ---|
 02132| 4 | -1 | 0 | 0 | -1 | -1| 1|
 
